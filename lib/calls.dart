@@ -18,8 +18,7 @@ class Calls extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
-
-            callData("Fira", Icons.call_missed, Colors.red, "Mei 21,14.22", NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")
+            callData("Fira", Icons.call_missed, Colors.red, "Mei 21,14.22", NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
           ],
         ),
       ),
@@ -85,39 +84,4 @@ class Calls extends StatelessWidget {
       ),
     );
   }
-  Widget callData(String name, IconData iconData, Color iconColor, String Time, NetworkImage networkImage) {
-    return Card(
-      margin: EdgeInsets.only(bottom: 0.5),
-      child: ListTile(
-        leading: CircleAvatar(
-          backgroundImage: networkImage,
-          radius: 26,
-        ),
-        title: Text(
-          name,
-          style: TextStyle(fontWeight: FontWeight.w500),
-        ),
-        subtitle: Row(
-          children: [
-            Icon(
-              iconData,
-              color: iconColor,
-              size: 20,
-            ),
-            SizedBox(width: 6),
-            Text(
-              Time,
-              style: TextStyle(fontSize: 13),
-            ),
-          ],
-        ),
-        trailing: Icon(
-          Icons.call,
-          size: 28,
-          color: Colors.teal,
-        ),
-      ),
-    );
-  }
 }
-
