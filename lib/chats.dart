@@ -33,7 +33,7 @@ class Chats extends StatelessWidget {
             chatData("danang bem", "Nanti yaa rab nya ini aku masih uts ", "02.50", Icons.done_all, Colors.blue, NetworkImage("https://cf.shopee.co.id/file/16e8d0d3df8a8d3b1d0a7169359d67bd")),
             chatData("Bagas ", "wes mari gorong tugasmu  ", "14.23", Icons.done_all, Colors.grey, NetworkImage("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQzinXCqvsrzMcFd5YtXOrSPPxli1tLSHbgA&usqp=CAU")),
             chatData("Yusron jauhari", "fans mu sangar ", "06.40", Icons.done_all, Colors.grey, NetworkImage("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNT7R29p1ZWJZTiPcp_B-KdS3SYok2ti9CA&usqp=CAU")),
-            chatData("Dimas azky Mauladani", "budal dk pondok kapan ", "09.40", Icons.done_all, Colors.grey, NetworkImage("https://images.theconversation.com/files/352482/original/file-20200812-18-kmz4ah.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip")),
+            chatData("Ady", "ucull bgtttt ", "05.40", Icons.done_all, Colors.grey, NetworkImage("https://media.suara.com/pictures/653x366/2021/12/28/11513-ilustrasi-kucing-dengan-mata-beda-warna-pixabaybaran65.jpg")),
             chatData("Dimas azky Mauladani", "budal dk pondok kapan ", "09.40", Icons.done_all, Colors.grey, NetworkImage("https://images.theconversation.com/files/352482/original/file-20200812-18-kmz4ah.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip")),
             chatData("Dimas azky Mauladani", "budal dk pondok kapan ", "09.40", Icons.done_all, Colors.grey, NetworkImage("https://images.theconversation.com/files/352482/original/file-20200812-18-kmz4ah.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip")),
           ],
