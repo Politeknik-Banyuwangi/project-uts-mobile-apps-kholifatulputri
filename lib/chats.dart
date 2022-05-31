@@ -26,7 +26,7 @@ class Chats extends StatelessWidget {
             chatData("Dimas unesa", "gak ada lebihnya", "12.34", Icons.done_all, Colors.blue, NetworkImage("https://i.ibb.co/yfvMSXD/Whats-App-Image-2022-05-31-at-11-52-42.jpg")),
             chatData("Adel", "Gass le", "13.54", Icons.done, Colors.grey, NetworkImage("https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2021/10/19040430/Mengenal-Faktor-yang-Mempengaruhi-Pertumbuhan-Kucing.jpg")),
             chatData("Adit", "Dit nugas nandi", "12.34", Icons.done, Colors.grey, NetworkImage("https://thumb.viva.co.id/media/frontend/thumbs3/2021/02/21/60321a80b0627-resep-makanan-kucing-yang-bernutrisi-dan-mudah-dibuat-di-rumah_665_374.jpg")),
-            chatData("Fira", "Put tugasmu gimana", "23.44", Icons.done_all, Colors.blue, NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
+            chatData("Dimas azky Mauladani", "budal dk pondok kapan ", "09.40", Icons.done_all, Colors.grey, NetworkImage("https://images.theconversation.com/files/352482/original/file-20200812-18-kmz4ah.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip")),
           ],
         ),
       ),
