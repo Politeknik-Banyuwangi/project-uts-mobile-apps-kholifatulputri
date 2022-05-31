@@ -20,7 +20,7 @@ class Calls extends StatelessWidget {
             ),
             callData("Fira", Icons.call_missed, Colors.red, "Mei 21,14.22", NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
             callData("Maritta", Icons.call_received, Colors.green, "Mei 22,15.32", NetworkImage("https://cdn0-production-images-kly.akamaized.net/Egt7vwlP2y1WkXGYQqFT2xboKRI=/1200x900/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2742412/original/000733400_1551681468-ilustrasikucinggg.jpg")),
-            callData("Fira", Icons.call_missed, Colors.red, "Mei 21,14.22", NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
+            callData("Adel", Icons.call_made, Colors.red, "Mei 19,11.12", NetworkImage("https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2021/07/03/smiling-cat-2__605jpg-20210703034927.jpg")),
             callData("Fira", Icons.call_missed, Colors.red, "Mei 21,14.22", NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
             callData("Fira", Icons.call_missed, Colors.red, "Mei 21,14.22", NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
             callData("Fira", Icons.call_missed, Colors.red, "Mei 21,14.22", NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
