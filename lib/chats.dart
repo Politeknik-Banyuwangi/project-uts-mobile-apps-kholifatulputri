@@ -34,7 +34,7 @@ class Chats extends StatelessWidget {
             chatData("Bagas ", "wes mari gorong tugasmu  ", "14.23", Icons.done_all, Colors.grey, NetworkImage("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQzinXCqvsrzMcFd5YtXOrSPPxli1tLSHbgA&usqp=CAU")),
             chatData("Yusron jauhari", "fans mu sangar ", "06.40", Icons.done_all, Colors.grey, NetworkImage("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNT7R29p1ZWJZTiPcp_B-KdS3SYok2ti9CA&usqp=CAU")),
             chatData("Ady", "ucull bgtttt ", "05.40", Icons.done_all, Colors.grey, NetworkImage("https://media.suara.com/pictures/653x366/2021/12/28/11513-ilustrasi-kucing-dengan-mata-beda-warna-pixabaybaran65.jpg")),
-            chatData("Dimas azky Mauladani", "budal dk pondok kapan ", "09.40", Icons.done_all, Colors.grey, NetworkImage("https://images.theconversation.com/files/352482/original/file-20200812-18-kmz4ah.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip")),
+            chatData("Dwiki", "dimas mustahiq kelas ta ", "05.30", Icons.done_all, Colors.blue, NetworkImage("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiiD7rdETgoyFcUs-_nshqLnmy3oIqUKqOOQ&usqp=CAU")),
             chatData("Dimas azky Mauladani", "budal dk pondok kapan ", "09.40", Icons.done_all, Colors.grey, NetworkImage("https://images.theconversation.com/files/352482/original/file-20200812-18-kmz4ah.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip")),
           ],
         ),
