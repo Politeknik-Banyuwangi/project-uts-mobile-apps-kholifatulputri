@@ -19,7 +19,7 @@ class Chats extends StatelessWidget {
             ),
             chatData("Fira", "Put tugasmu gimana", "23.44", Icons.done_all, Colors.blue, NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
             chatData("Mariita", "Gas healing", "22.24", Icons.done, Colors.grey, NetworkImage("https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp")),
-            chatData("Fira", "Put tugasmu gimana", "23.44", Icons.done_all, Colors.blue, NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
+            chatData("Surya", "Ciri khas ku gimana ", "22.54", Icons.done, Colors.grey, NetworkImage("https://i.pinimg.com/736x/2c/7f/f6/2c7ff6e51b9c31f06af1e3a78667f551.jpg")),
             chatData("Fira", "Put tugasmu gimana", "23.44", Icons.done_all, Colors.blue, NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
             chatData("Fira", "Put tugasmu gimana", "23.44", Icons.done_all, Colors.blue, NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
             chatData("Fira", "Put tugasmu gimana", "23.44", Icons.done_all, Colors.blue, NetworkImage("https://asset.kompas.com/crops/W4P3no-vmu-9GnsCWwybHDufncM=/120x34:4222x2768/750x500/data/photo/2021/04/18/607ba95f8d6f7.jpg")),
