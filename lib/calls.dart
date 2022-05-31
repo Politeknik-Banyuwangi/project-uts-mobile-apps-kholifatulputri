@@ -25,6 +25,7 @@ class Calls extends StatelessWidget {
             callData("Adit", Icons.call_missed, Colors.red, "Mei 18,12.42", NetworkImage("https://static.republika.co.id/uploads/images/inpicture_slide/babi-ngepet-ilustrasi-_121210161131-943.jpg")),
             callData("Royyan", Icons.call_made, Colors.green, "Maret 23,15.42", NetworkImage("https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/03/31/1480330428.jpg")),
             callData("dava", Icons.call_received, Colors.green, "Maret 22,11.12", NetworkImage("https://awsimages.detik.net.id/community/media/visual/2019/10/10/4f170882-c183-4990-90d8-3d5e3d283017_169.jpeg?w=700&q=90")),
+            callData("Ayu curr", Icons.call_made, Colors.red, "Maret 23,12.12", NetworkImage("https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/575302ad0a93322ccc2266d581645f02ed8b19ad19ed800e18f10246f9d670d5.jpg")),
           ],
         ),
       ),
