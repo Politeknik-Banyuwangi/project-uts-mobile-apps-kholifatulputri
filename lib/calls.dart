@@ -56,4 +56,40 @@ class Calls extends StatelessWidget {
       ),
     );
   }
+
+  Widget callCard(String name, IconData iconData, Color iconColor, String Time, NetworkImage networkImage) {
+    return Card(
+      margin: EdgeInsets.only(bottom: 0.5),
+      child: ListTile(
+        leading: CircleAvatar(
+          backgroundImage: networkImage,
+          radius: 26,
+        ),
+        title: Text(
+          name,
+          style: TextStyle(fontWeight: FontWeight.w500),
+        ),
+        subtitle: Row(
+          children: [
+            Icon(
+              iconData,
+              color: iconColor,
+              size: 20,
+            ),
+            SizedBox(width: 6),
+            Text(
+              Time,
+              style: TextStyle(fontSize: 13),
+            ),
+          ],
+        ),
+        trailing: Icon(
+          Icons.call,
+          size: 28,
+          color: Colors.teal,
+        ),
+      ),
+    );
+  }
+}
 }
